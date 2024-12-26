@@ -9,3 +9,5 @@ output/filled_predictions/*
 output/*
 !output/filled_predictions/
 !output/final*/
+
+user_bal*
