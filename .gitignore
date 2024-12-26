@@ -1,6 +1,6 @@
 model*/
-!model/models20241222194927/
-!model/models20241226181705/
+!models20241222194927
+!models20241226181705
 
 output/filled_predictions/*
 !output/filled_predictions/20241226093331/
