@@ -1,0 +1,11 @@
+model*/
+!model/models20241222194927/
+!model/models20241226181705/
+
+output/filled_predictions/*
+!output/filled_predictions/20241226093331/
+!output/filled_predictions/20241226193702/
+
+output/*
+!output/filled_predictions/
+!output/final*/
