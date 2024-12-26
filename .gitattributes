@@ -1,1 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+user_balance_table.csv filter=lfs diff=lfs merge=lfs -text
